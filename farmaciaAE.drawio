@@ -42,8 +42,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P9hA34-tNfjLEsUWTdHr-1" value="G_Controla sueldo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="80" height="80" as="geometry" />
+        <mxCell id="P9hA34-tNfjLEsUWTdHr-1" value="1. Controla" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9hA34-tNfjLEsUWTdHr-2" value="G_Carga horario" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="80" height="80" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry x="500" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9hA34-tNfjLEsUWTdHr-5" value="C_Solicita medicamento" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="110" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9hA34-tNfjLEsUWTdHr-6" value="C_Entrega receta" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="80" height="80" as="geometry" />
@@ -77,6 +77,18 @@
         </mxCell>
         <mxCell id="P9hA34-tNfjLEsUWTdHr-12" value="F_Controla vencimiento" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w2JqfEa3kgKlzj4CsJTy-1" value="Gerente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2JqfEa3kgKlzj4CsJTy-2" value="Farmaceutico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2JqfEa3kgKlzj4CsJTy-3" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w2JqfEa3kgKlzj4CsJTy-4" value="Drogueria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
