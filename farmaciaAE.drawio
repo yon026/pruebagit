@@ -42,8 +42,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w2JqfEa3kgKlzj4CsJTy-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="P9hA34-tNfjLEsUWTdHr-1" target="w2JqfEa3kgKlzj4CsJTy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P9hA34-tNfjLEsUWTdHr-1" value="1. Controla" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="130" width="80" height="80" as="geometry" />
+          <mxGeometry x="180" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P9hA34-tNfjLEsUWTdHr-2" value="G_Carga horario" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="80" height="80" as="geometry" />
@@ -78,9 +81,11 @@
         <mxCell id="P9hA34-tNfjLEsUWTdHr-12" value="F_Controla vencimiento" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w2JqfEa3kgKlzj4CsJTy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="w2JqfEa3kgKlzj4CsJTy-1" target="P9hA34-tNfjLEsUWTdHr-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
+        <object label="" id="w2JqfEa3kgKlzj4CsJTy-8">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="w2JqfEa3kgKlzj4CsJTy-1" target="P9hA34-tNfjLEsUWTdHr-1">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="w2JqfEa3kgKlzj4CsJTy-1" value="Gerente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -98,6 +103,15 @@
             <mxPoint x="580" y="240" as="sourcePoint" />
             <mxPoint x="740" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w2JqfEa3kgKlzj4CsJTy-9" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="240" as="sourcePoint" />
+            <mxPoint x="740" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w2JqfEa3kgKlzj4CsJTy-11" value="Sueldo" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
