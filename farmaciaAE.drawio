@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8bPWiTlcKolvTdHzhJPU" name="Página-3">
-    <mxGraphModel dx="733" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,11 +96,8 @@
         <mxCell id="YV-PIig6HxP3eE1vPEk6-11" value="11. Registra" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="324" y="555" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YV-PIig6HxP3eE1vPEk6-12" value="2. Carga horario" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="488" y="420" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YV-PIig6HxP3eE1vPEk6-13" value="4. Realiza" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="488" y="670" width="80" height="80" as="geometry" />
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-13" value="13. Controla" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="545" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YV-PIig6HxP3eE1vPEk6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="YV-PIig6HxP3eE1vPEk6-11" target="YV-PIig6HxP3eE1vPEk6-14">
           <mxGeometry relative="1" as="geometry" />
@@ -110,11 +107,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="YV-PIig6HxP3eE1vPEk6-14" target="YV-PIig6HxP3eE1vPEk6-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="619" y="570" />
+              <mxPoint x="619" y="470" />
+              <mxPoint x="690" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-29" value="Vencimiento" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YV-PIig6HxP3eE1vPEk6-28">
+          <mxGeometry x="-0.3793" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YV-PIig6HxP3eE1vPEk6-14" value="Farmaceutico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="468" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YV-PIig6HxP3eE1vPEk6-15" value="3. Verifica" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="648" y="545" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YV-PIig6HxP3eE1vPEk6-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.817;exitY=-0.039;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitPerimeter=0;" edge="1" parent="1" source="YV-PIig6HxP3eE1vPEk6-7" target="YV-PIig6HxP3eE1vPEk6-5">
           <mxGeometry relative="1" as="geometry" />
@@ -129,6 +137,30 @@
         </mxCell>
         <mxCell id="YV-PIig6HxP3eE1vPEk6-26" value="Planilla de reporte" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="111.97" y="412.71" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="YV-PIig6HxP3eE1vPEk6-49" target="YV-PIig6HxP3eE1vPEk6-55" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="700.04" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-48" value="Entrega" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" connectable="0" vertex="1" parent="YV-PIig6HxP3eE1vPEk6-47">
+          <mxGeometry x="0.0704" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-49" value="X. Distribuir" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="344" y="725.04" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" source="YV-PIig6HxP3eE1vPEk6-55" target="YV-PIig6HxP3eE1vPEk6-49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-52" value="Retiro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="YV-PIig6HxP3eE1vPEk6-51">
+          <mxGeometry x="-0.1876" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-55" value="Drogueria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="725.04" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
