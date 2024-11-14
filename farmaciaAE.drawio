@@ -396,6 +396,18 @@
         <mxCell id="zKrqzVpvnBBqY-nF42Q9-14" value="Emitir" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="445" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zKrqzVpvnBBqY-nF42Q9-17" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKrqzVpvnBBqY-nF42Q9-18" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKrqzVpvnBBqY-nF42Q9-19" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKrqzVpvnBBqY-nF42Q9-20" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
