@@ -259,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Dip8rEla9tvtbW2XkSIu" name="DER_Farmacia">
-    <mxGraphModel dx="356" dy="157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -286,6 +286,9 @@
         </mxCell>
         <mxCell id="Fn89PaDy8ayp71kVCumM-13" value="Gerente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rxeU3YUrTGZAufvVRstP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fn89PaDy8ayp71kVCumM-15" target="Fn89PaDy8ayp71kVCumM-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fn89PaDy8ayp71kVCumM-15" value="Entrega" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="190" width="90" height="80" as="geometry" />
