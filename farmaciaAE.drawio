@@ -146,7 +146,7 @@
             <mxPoint x="14" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV-PIig6HxP3eE1vPEk6-49" value="6. Proporciona" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="YV-PIig6HxP3eE1vPEk6-49" value="6. Entrega" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="367" y="450" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-HLmebLIenSybxcBl1Y0-60" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=2;" parent="1" source="YV-PIig6HxP3eE1vPEk6-55" target="-HLmebLIenSybxcBl1Y0-53" edge="1">
