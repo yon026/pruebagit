@@ -194,7 +194,7 @@
         <mxCell id="-HLmebLIenSybxcBl1Y0-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=2;" parent="1" source="-HLmebLIenSybxcBl1Y0-53" target="YV-PIig6HxP3eE1vPEk6-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-HLmebLIenSybxcBl1Y0-58" value="Comprobante" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" parent="-HLmebLIenSybxcBl1Y0-57" vertex="1" connectable="0">
+        <mxCell id="-HLmebLIenSybxcBl1Y0-58" value="Recibo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" parent="-HLmebLIenSybxcBl1Y0-57" vertex="1" connectable="0">
           <mxGeometry x="-0.0818" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
