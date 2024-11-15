@@ -17,7 +17,7 @@
         <mxCell id="_czeDnfp9WcagnM8m164-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=2;" parent="1" source="YV-PIig6HxP3eE1vPEk6-4" target="YV-PIig6HxP3eE1vPEk6-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_czeDnfp9WcagnM8m164-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Nómina&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="_czeDnfp9WcagnM8m164-10" vertex="1" connectable="0">
+        <mxCell id="_czeDnfp9WcagnM8m164-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Nómina&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" parent="_czeDnfp9WcagnM8m164-10" vertex="1" connectable="0">
           <mxGeometry x="0.1233" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -55,7 +55,7 @@
         </mxCell>
         <mxCell id="YV-PIig6HxP3eE1vPEk6-25" value="Reporte diario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" parent="YV-PIig6HxP3eE1vPEk6-24" connectable="0" vertex="1">
           <mxGeometry x="0.1067" y="-2" relative="1" as="geometry">
-            <mxPoint x="11" y="2" as="offset" />
+            <mxPoint x="2" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_czeDnfp9WcagnM8m164-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="YV-PIig6HxP3eE1vPEk6-7" target="YV-PIig6HxP3eE1vPEk6-5" edge="1">
